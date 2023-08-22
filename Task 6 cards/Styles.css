@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    color: #e57373;
+    font-weight: 110;
+}
+
+p {
+    font-weight: 150;
+}
+
+.adobe-img {
+    padding: 40px 10px 5px 5px;
+}
+
+.adobe-link {
+    color: #e57373;
+    font-weight: 140;
+}
